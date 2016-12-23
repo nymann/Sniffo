@@ -1,5 +1,3 @@
-using System;
-using System.Runtime.InteropServices;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Sniffo.Windows;
 
